@@ -1,3 +1,7 @@
 .DS_Store
 .idea
-Exercise Files
+Exercise Files/
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
